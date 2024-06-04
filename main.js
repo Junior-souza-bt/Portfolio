@@ -1,5 +1,5 @@
 function mudarTitulo() {
-    const titles = ["Portfolio", " Seja Bem-vindo(a)! "]; 
+    const titles = ["Portfólio Pessoal", " Seja Bem-vindo(a)! "]; 
     let index = 0;
 
     setInterval(() => {
